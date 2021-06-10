@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3959de5-8ab2-41e7-be5f-1cf5b21264d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hhh/.idea/hhh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hhh/nain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papka/.idea/papka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papka/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../papka/views/main.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-10/day-45/.idea/day-45.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-10/day-45/eslintProject/.idea/eslintProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-4/day-15/test2/.idea/test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-4/day-15/tt/.idea/tt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-4/day-17/.idea/day-17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-6/day-25/.idea/day-25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-6/day-26/.idea/day-26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-6/day-26/2-zadanie/.idea/2-zad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-6/day-26/3-zadanie/.idea/3-zad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-6/day-26/4-zadanie/.idea/4-zad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-6/day-26/5-zadanie/.idea/5-zadanie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-6/day-26/6-zadanie/.idea/6-zadanie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-6/day-26/7-zadanie/.idea/7-zadanie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-6/day-26/8-zadanie/.idea/8-zadanie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-6/day-27/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-6/day-29/.idea/day-29.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7/day-33/chackN+express/.idea/q.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7/day-33/mob/.idea/wiskhan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7/day-33/z/.idea/z.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-7/day-34/Server/.idea/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-8/day-36/.idea/day-36.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-8/day-37/.idea/day-37.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-8/day-37/DB/.idea/DB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-8/day-37/config/.idea/config.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-9/day-40/minser/.idea/minser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-9/day-40/newser/.idea/newser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-9/day-41/mongoDb1/.idea/mongoDb1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-9/day-44/upload-file/.idea/upload-file.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tkWMx7BXRjmLbmOFE2pBrgYfHq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Hugo\Desktop\team-project-games-front\node_modules\prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.webpack">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="devKey" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="devKey" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="webpack" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="webpack" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.webpack" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.devKey" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3959de5-8ab2-41e7-be5f-1cf5b21264d9" name="Default Changelist" comment="" />
+      <created>1623313523120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623313523120</updated>
+      <workItem from="1623313524415" duration="184000" />
+      <workItem from="1623313717408" duration="3001000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
